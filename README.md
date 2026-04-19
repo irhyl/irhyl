@@ -1,9 +1,9 @@
 <p align="left">
 hi, i'm aditi. final year undergrad at christ university, bangalore.
 
-i work in ml and ai — but my actual obsession is with how things that look nothing alike turn out to be the same thing. regime shifts in financial markets and phase transitions in physics. power laws in city growth and neural firing patterns. the way hidden markov models work just as well on pulsars as they do on portfolios. i don't think that's a coincidence. i think most fields are just studying the same underlying structure with different vocabulary.
+i work in ml and ai. i also read a lot of things that have nothing to do with ml and ai. i think most fields are just studying the same underlying structure with different vocabulary. 
 
-so i read sociology, philosophy, archaeology, psychology, astrophysics, neuroscience — not as hobbies, but because the pattern usually shows up somewhere unexpected first.
+so i read sociology, philosophy, archaeology, psychology, astrophysics, neuroscience, not as hobbies, but because the pattern usually shows up somewhere unexpected first.
 </p>
 
 ###
