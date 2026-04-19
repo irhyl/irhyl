@@ -8,7 +8,7 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 
-<p align="left">languages:</p>
+<p align="left"></b>languages:</b></p>
 
 ###
 
@@ -34,11 +34,11 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 
-<p align="left">experience:<br>1. intern, KPMG, python automations for internal RA and finance processes<br>2. ml research intern, NMCAD Lab, IISc Bangalore, trajectory optimization for defense eVTOLs<br>3. sde intern, Reliance, full-stack on the Jio loyalty platform<br>4. embedded systems intern, KRIBHCO</p>
+<p align="left"></b>experience:</b><br>1. intern, KPMG, python automations for internal RA and finance processes<br>2. ml research intern, NMCAD Lab, IISc Bangalore, trajectory optimization for defense eVTOLs<br>3. sde intern, Reliance, full-stack on the Jio loyalty platform<br>4. embedded systems intern, KRIBHCO</p>
 
 ###
 
-<p align="left">other:</p>
+<p align="left"></b>other:</b></p>
 
 ###
 
@@ -68,6 +68,6 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 
-<p align="left">selected projects:<br><br>1. <a href="https://github.com/irhyl/c60.ai">C60.ai</a><br>an AutoML framework that treats pipelines as graph structures. inspired by molecular evolution. built for when hyperparameter tuning alone isn't enough. <br>2. <a href="https://github.com/irhyl/trajectory-optimization-in-defense-evtols">Trajectory Optimization in Defense eVTOLs</a><br>four-layer autonomous mission planning for eVTOL aircraft in contested airspace. research output with IISc.<br>3. <a href="https://github.com/irhyl/ds-pah-gnn">DS-PAH-GNN</a> — <em>accepted, IEEE AIS 2026</em><br>physics-aware GNN for real-time power loss prediction and topology optimization in DC microgrids.<br>4. <a href="https://github.com/irhyl/zero-inbox">zero-inbox</a><br>CLI tool that turns thought-dumps into executable plans. written in Rust. born out of a specific kind of frustration.</p>
+<p align="left"></b>selected projects:</b><br>1. <a href="https://github.com/irhyl/c60.ai">C60.ai</a><br>an AutoML framework that treats pipelines as graph structures. inspired by molecular evolution. built for when hyperparameter tuning alone isn't enough. <br>2. <a href="https://github.com/irhyl/trajectory-optimization-in-defense-evtols">Trajectory Optimization in Defense eVTOLs</a><br>four-layer autonomous mission planning for eVTOL aircraft in contested airspace. research output with IISc.<br>3. <a href="https://github.com/irhyl/ds-pah-gnn">DS-PAH-GNN</a> — <em>accepted, IEEE AIS 2026</em><br>physics-aware GNN for real-time power loss prediction and topology optimization in DC microgrids.<br>4. <a href="https://github.com/irhyl/zero-inbox">zero-inbox</a><br>CLI tool that turns thought-dumps into executable plans. written in Rust. born out of a specific kind of frustration.</p>
 
 ###
