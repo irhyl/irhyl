@@ -8,7 +8,7 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 
-<p align="left"></b>languages:</b></p>
+<p align="left">*languages:*</p>
 
 ###
 
