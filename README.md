@@ -38,6 +38,10 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 
+<p align="left"><b>add-ons:</b><br>1. AIR 19, LIMIT, theoritical math comp by jane street & ISI bengaluru<br>2. finalist, google agentic ai day hackathon, 2026<br>3. finanlist, ai for good hackathon, by microsoft & blend
+
+###
+
 <p align="left"><b>other:</b></p>
 
 ###
