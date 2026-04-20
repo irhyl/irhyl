@@ -79,4 +79,4 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 <p align="left"><b>things i do when no one is watching:</b><br>a. my quant portfolio: <a href="https://github.com/my-awesome-quant-portfolio">my-awesome-quant-portfolio</a><br>b. i experiment with theoretical math and physics at: <a href="https://github.com/fuzzy-octo-fishstick">fuzzy-octo-fishstick</a> · <a href="https://github.com/perpetual-quandary">perpetual-quandary</a><br>c. my indie lit portfolio: <a href="https://github.com/noirvestige">noirvestige</a></p>
 
 ###
-<p align="left"><b>what i'm listening to:</b><br>paramore · blink-182 · laufey · lifafa · cornershop · the national · phoebe bridgers · bill evans · chet baker · townes van zandt · adrianne lenker · pinegrove · nick drake · norah jones · wilco and more...</p>
+<p align="left"><b>what i'm listening to while i watch my code crash:</b><br>paramore · blink-182 · laufey · lifafa · cornershop · the national · phoebe bridgers · bill evans · chet baker · townes van zandt · adrianne lenker · pinegrove · nick drake · norah jones · wilco and more...</p>
