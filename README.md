@@ -34,7 +34,7 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 
-<p align="left"><b>experience:</b><br>1. intern, KPMG, python automations for internal RA and finance processes<br>2. ml research intern, NMCAD Lab, IISc Bangalore, trajectory optimization for defense eVTOLs<br>3. sde intern, Reliance, full-stack on the Jio loyalty platform<br>4. embedded systems intern, KRIBHCO</p>
+<p align="left"><b>experience:</b><br>1. intern, KPMG, python automations for internal RA and finance processes<br>2. ml research intern, NMCAD Lab, IISc Bangalore, trajectory optimization for defense eVTOLs<br>3. sde intern, Reliance, full-stack on the Jio loyalty platform<br>4. embedded systems intern, KRIBHCO, control algo for VFDs</p>
 
 ###
 
