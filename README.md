@@ -37,7 +37,7 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 <p align="left"><b>experience:</b><br>1. intern, KPMG, python automations for internal RA and finance processes<br>2. ml research intern, NMCAD Lab, IISc Bangalore, trajectory optimization for defense eVTOLs<br>3. sde intern, Reliance, full-stack on the Jio loyalty platform<br>4. embedded systems intern, KRIBHCO, control algo for VFDs</p>
 
 ###
-<p align="left"><b>current research:</b><br>vopěnka's principle and the expressivity ceiling of Graph Neural Networks: a set-theoretic framework for homomorphism-indistinguishability
+<p align="left"><b>current research:</b><br>vopěnka's principle and the expressivity ceiling of graph neural networks: a set-theoretic framework for homomorphism-indistinguishability
 p.s. i love graphs</p>
 
 ###
