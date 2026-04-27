@@ -37,8 +37,8 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 <p align="left"><b>experience:</b><br>1. intern, KPMG, python automations for internal RA and finance processes<br>2. ml research intern, NMCAD Lab, IISc Bangalore, trajectory optimization for defense eVTOLs<br>3. sde intern, Reliance, full-stack on the Jio loyalty platform<br>4. embedded systems intern, KRIBHCO, control algo for VFDs</p>
 
 ###
-<p align="left"><b>current research:</b><br>The Homomorphism Treewidth Hierarchy: Treewidth, Homomorphism Counting, and the Expressive Limits of Graph Neural Networks
-  link to repo: <a href= https://github.com/fuzzy-octo-fishstick/the-homomorphism-treewidth-hierarchy-for-gnns><br>the-homomorphism-treewidth-hierarchy-for-gnns<br></a>
+<p align="left"><b>current research:</b><br>The Homomorphism Treewidth Hierarchy: Treewidth, Homomorphism Counting, and the Expressive Limits of Graph Neural Networks<br>
+  <br>link to repo: <a href= https://github.com/fuzzy-octo-fishstick/the-homomorphism-treewidth-hierarchy-for-gnns><br>the-homomorphism-treewidth-hierarchy-for-gnns</a><br>
   
 p.s. i love graphs</p>
 
