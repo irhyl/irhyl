@@ -38,7 +38,7 @@ so i read sociology, philosophy, archaeology, psychology, astrophysics, neurosci
 
 ###
 <p align="left"><b>current research:</b><br>The Homomorphism Treewidth Hierarchy: Treewidth, Homomorphism Counting, and the Expressive Limits of Graph Neural Networks
-  link to repo: <a https://github.com/fuzzy-octo-fishstick/the-homomorphism-treewidth-hierarchy-for-gnns>the-homomorphism-treewidth-hierarchy-for-gnns</a>
+  link to repo: <a href= https://github.com/fuzzy-octo-fishstick/the-homomorphism-treewidth-hierarchy-for-gnns><br>the-homomorphism-treewidth-hierarchy-for-gnns<br></a>
   
 p.s. i love graphs</p>
 
