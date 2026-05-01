@@ -44,7 +44,7 @@ p.s. i love graphs</p>
 
 ###
 
-<p align="left"><b>add-ons:</b><br>1. AIR 19, LIMIT, theoritical math comp by jane street & ISI bengaluru<br>2. finalist, google agentic ai day hackathon, 2026<br>3. finalist, ai for good hackathon, by microsoft & blend
+<p align="left"><b>add-ons:</b><br>1. AIR 19, LIMIT, theoritical math comp by jane street & ISI bengaluru<br>2. finalist, google agentic ai day hackathon, 2025<br>3. finalist, ai for good hackathon 2025, by microsoft & blend
 
 ###
 
@@ -78,7 +78,7 @@ p.s. i love graphs</p>
 
 ###
 
-<p align="left"><b>selected projects:</b><br>1. <a href="https://github.com/irhyl/c60.ai">C60.ai</a><br>an AutoML framework that treats pipelines as graph structures. inspired by molecular evolution. built for when hyperparameter tuning alone isn't enough.<br>2. <a href="https://github.com/irhyl/trajectory-optimization-in-defense-evtols">Trajectory Optimization in Defense eVTOLs</a><br>four-layer autonomous mission planning for eVTOL aircraft in contested airspace. research output with IISc.<br>3. <a href="https://github.com/irhyl/ds-pah-gnn">DS-PAH-GNN</a> — <em>accepted, IEEE AIS 2026</em><br>physics-aware GNN for real-time power loss prediction and topology optimization in DC microgrids.<br>4. <a href="https://github.com/irhyl/zero-inbox">zero-inbox</a><br>CLI tool that turns thought-dumps into executable plans. written in Rust. born out of a specific kind of frustration.</p>
+<p align="left"><b>selected projects:</b><br>1. <a href="https://github.com/irhyl/c60.ai">C60.ai</a><br>an AutoML framework that treats pipelines as graph structures. inspired by molecular evolution. built for when hyperparameter tuning alone isn't enough.<br>2. <a href="https://github.com/irhyl/trajectory-optimization-in-defense-evtols">Trajectory Optimization in Defense eVTOLs</a><br>four-layer autonomous mission planning for eVTOL aircraft in contested airspace. research output with IISc.<br>3. <a href="https://github.com/irhyl/ds-pah-gnn">DS-PAH-GNN</a></em><br>physics-aware GNN for real-time power loss prediction and topology optimization in DC microgrids.<br>4. <a href="https://github.com/irhyl/zero-inbox">zero-inbox</a><br>CLI tool that turns thought-dumps into executable plans. written in Rust. born out of a specific kind of frustration.</p>
 
 ###
 
