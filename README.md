@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/capybara-banner-01.png" alt="capybara banner" width="100%" />
+</p>
+
 <p align="left">
 hi, i'm aditi. final year undergrad at christ university, bangalore.
 
