@@ -10,6 +10,8 @@ i work in ml and ai. i also read a lot of things that have nothing to do with ml
 so i read sociology, philosophy, archaeology, psychology, astrophysics, neuroscience, not as hobbies, but because the pattern usually shows up somewhere unexpected first.
 </p>
 
+check out: <a href= https://github.com/irhyl/shelf-of-detours>
+
 ###
 
 <p align="left"><b>languages:</b></p>
